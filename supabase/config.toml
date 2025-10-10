@@ -1,0 +1,4 @@
+project_id = "wrteaoncoflxevnxwyze"
+
+[functions.process-purchase]
+verify_jwt = false
